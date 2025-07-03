@@ -1,0 +1,10 @@
+
+{
+  "name": "MiniMap",
+  "short_name": "MiniMap",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Navigatie voor Biro / Voltino L7e voertuigen",
+  "icons": []
+}
